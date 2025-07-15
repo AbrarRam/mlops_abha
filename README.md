@@ -1,1 +1,1 @@
-readme file
+This is a workshop MLOps repository.
